@@ -4,7 +4,7 @@ This is a **C# notebook project** for analyzing sales data. It calculates total 
 
 ## Notebook File
 
-`SalesAnalysisNotebook.csx` — contains all code and sample data in a notebook style.
+File contains all code and sample data in a notebook style.
 
 ## Features
 
